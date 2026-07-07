@@ -1,3 +1,3 @@
 ## API-Testing
 
-Files related to APITesting
+Files related to API-Testing
